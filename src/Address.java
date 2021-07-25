@@ -9,7 +9,7 @@ public class Address implements Serializable{
 	private String lateCall;
 	
 	public String getName() {return name;}
-	public String getTe() {return tel;}
+	public String getTel() {return tel;}
 	public String getEtc() {return etc;}
 	public boolean getHiding() {return hiding;}
 	public String getLateCall() {return lateCall;}
